@@ -1,4 +1,4 @@
-[English README is here](https://github.com/Nameless-itf23/palworld_docker/blob/master/README.md)
+[English README is here](https://github.com/n4mlz/palworld_docker/blob/master/README.md)
 
 ## docker-compose for Pal World
 Dockerfile を使わず docker-compose.yml 単体で Pal World のサーバー (Pal Server) を動作させます。

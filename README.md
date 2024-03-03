@@ -1,4 +1,4 @@
-[日本語版 README はこちら](https://github.com/Nameless-itf23/palworld_docker/blob/master/README-ja.md)
+[日本語版 README はこちら](https://github.com/n4mlz/palworld_docker/blob/master/README-ja.md)
 
 ## docker-compose for Pal World
 This repository provides a docker-compose.yml file that allows you to run a Pal World dedicated server without using a Dockerfile.
